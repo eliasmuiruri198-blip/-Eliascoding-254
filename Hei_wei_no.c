@@ -1,6 +1,6 @@
 //C program 
 /*
-Name: Elias
+Name: Muiruri Elias 
 Reg: CT100/G/26169/25
 Description:To prompt the student to
 enter height,weight,phonenumber 
