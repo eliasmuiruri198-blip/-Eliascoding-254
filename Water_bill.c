@@ -1,5 +1,5 @@
 /*
-Name:MuiElias 
+Name:Muiruri Elias 
 Reg no:CT100/G/26169/25
 Description:Program for water company charges rules
 */
